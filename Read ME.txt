@@ -1,2 +1,4 @@
+download dataset from here
+https://drive.google.com/drive/folders/1w7L8jxOu-uyj7lr-u43eIN7MnvD9CxXi?usp=drive_link
 Just open the DATA MINING PROJECT JPYTER.ipynb file in jpyter notebook 
 and click on run button that it
